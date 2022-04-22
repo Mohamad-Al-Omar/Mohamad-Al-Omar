@@ -4,9 +4,9 @@
 <tr>
   <td valign="center">
     🎓 I graduated fromyarmouk university in jordan with <strong>Computer Information System</strong> degree with <strong>honors</strong>.<br/>
-    🌱 I am currently learning **Java** and also interested in **Web Development**.<br/>
-    🎯 My Goal is to Contribute to as many **open source project** as possible.<br/>
-    ✨ I love to create different types of **contents**.<br/>
+    🌱 I am currently working in <strong> Maplet Green Information Technology</strong> as junior softwar developer.<br/>
+    🎯 My Goal is to Contribute to as many open source project as possible.<br/>
+    ✨ I love to create different types of contents.<br/>
   </td>
 <!--<td >
   
