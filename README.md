@@ -136,8 +136,8 @@
     />
   </a>
 </p>
-<h3 align="left">🔵 Backend Development:</h3>
-<p align="center"></p>
+<!-- <h3 align="left">🔵 Backend Development:</h3>
+<p align="center"></p> -->
 <h3 align="left">🔵 Mobile App Development:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin: 0 10px">
@@ -316,4 +316,4 @@
     />
   </a>
 </p>
-    
+
