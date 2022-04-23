@@ -13,13 +13,13 @@
     <strong>React Js, Node Js</strong>.<br />
     🎯 My Goal is to Contribute to as many open source project as possible.<br />
     ✨ I love to create different types of contents.<br />
+    🔭 I’m currently working on <strong>Vue Dashboard</strong> open source
+    project.<br />
+    💬 Ask me about <strong>JS, Vue Js, Android, APIs</strong> and more.<br />
+    📫 How to reach me
+    <strong>m.al.omar94@gmail.com</strong>
   </td>
 </tr>
-
-- 🔭 I’m currently working on <strong>Vue Dashboard</strong> open source project
-- 💬 Ask me about <strong>JS, Vue Js, Android, APIs</strong> - 📫 How to reach
-me
-<strong>m.al.omar94@gmail.com</strong>
 
 <h1>🛠️ My Skills</h1>
 <h3 align="left">🔵 Programming Languages:</h3>
