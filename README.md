@@ -268,10 +268,14 @@
 
 <h2>📊 Github Stats</h2>
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-al-omar&show_icons=true&locale=en&layout=compact" alt="mohamad-al-omar" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-al-omar&show_icons=true&locale=en" alt="mohamad-al-omar" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-al-omar&show_icons=true&locale=en" alt="mohamad-al-omar" style="max-width:100%"/>
+    <br/>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-al-omar&show_icons=true&locale=en&layout=compact" alt="mohamad-al-omar" style="max-width:100%"/> 
+    <br>
+    <br>
+    <b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 </p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
