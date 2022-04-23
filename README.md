@@ -16,12 +16,22 @@
     🔭 I’m currently working on <strong>Vue Dashboard</strong> open source
     project.<br />
     💬 Ask me about <strong>JS, Vue Js, Android, APIs</strong> and more.<br />
-    📫 How to reach me
-    <strong>m.al.omar94@gmail.com</strong>
+    <!-- 📫 How to reach me
+    <strong>m.al.omar94@gmail.com</strong> -->
   </td>
 </tr>
 
-<h1>🛠️ My Skills</h1>
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-al-omar&"
+    alt="mohamad-al-omar"
+  />
+</p>
+
+<h2>🛠️ My Skills</h1>
 <h3 align="left">🔵 Programming Languages:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -45,7 +55,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 0 10px">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
@@ -56,7 +66,8 @@
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer"
+    rel="noreferrer" 
+    style="margin: 0 10px"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -64,7 +75,7 @@
       width="40"
       height="40"
     />
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" >
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python"
@@ -253,8 +264,24 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2>📊 Github Stats</h2>
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-al-omar&show_icons=true&locale=en&layout=compact" alt="mohamad-al-omar" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-al-omar&show_icons=true&locale=en" alt="mohamad-al-omar" />
+</p>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
+  <a href="mailto:m.al.omar94@gmail.com">
+    <img
+      align="center"
+      src="https://static.cdnlogo.com/logos/g/37/gmail-icon.svg"
+      alt="mohamadalomar"
+      height="30"
+      width="40"
+    />
+  </a>
   <a href="https://codepen.io/mohamadalomar" target="blank">
     <img
       align="center"
@@ -282,4 +309,12 @@
       width="40"
     />
   </a>
+</p>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-al-omar&show_icons=true&locale=en&layout=compact"
+    alt="mohamad-al-omar"
+  />
 </p>
