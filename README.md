@@ -174,7 +174,7 @@
   </a>
 </p>
 <h3 align="left">🔵 Database</h3>
-<p align="left">
+<p align="center">
   <a
     href="https://www.microsoft.com/en-us/sql-server"
     target="_blank"
