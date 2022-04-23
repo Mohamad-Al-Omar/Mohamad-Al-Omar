@@ -316,11 +316,4 @@
     />
   </a>
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-al-omar&show_icons=true&locale=en&layout=compact"
-    alt="mohamad-al-omar"
-  />
-</p>
+    
