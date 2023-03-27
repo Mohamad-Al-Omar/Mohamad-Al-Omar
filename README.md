@@ -297,7 +297,7 @@
       width="40"
     />
   </a>
-  <a href="https://twitter.com/legend_coder" target="blank">
+  <!--<a href="https://twitter.com/legend_coder" target="blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -305,7 +305,7 @@
       height="30"
       width="40"
     />
-  </a>
+  </a>-->
   <a href="https://linkedin.com/in/mohamad-al-omar" target="blank">
     <img
       align="center"
