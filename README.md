@@ -8,7 +8,7 @@
     <strong>honors</strong>.<br />
     🌱 I am currently working at
     <strong> Maplet Green Information Technology</strong> as a
-    <code>junior</code> software developer.<br />
+    <code>senior</code> software engineer<br />
     🌱 I am currently learning more about
     <strong>React Js, Node Js</strong>.<br />
     🎯 My Goal is to Contribute to as many open source project as possible.<br />
